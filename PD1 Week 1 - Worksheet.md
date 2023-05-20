@@ -2,11 +2,11 @@
 TASK 1:  
 Use the ‘PD1 Week 1 –Module Information’ documenton the VLE toanswerthe questionsin groups.
 1. What is the main focus of this course?
-- Potential career paths and develop students' **employability skills**
+    - Potential career paths and develop students' **employability skills**
 2. Who is the module leader for PD1? How can you contact them?
-- Mod. Leader Kenneth Cohen kenneth.cohen@london.aru.org 
+    - Mod. Leader Kenneth Cohen kenneth.cohen@london.aru.org 
 3. What is the assessment method for this module? 
-- Interview
+    - Interview
 4. What are the key dates this term?
 
 |Events | Dates |
@@ -15,22 +15,35 @@ Use the ‘PD1 Week 1 –Module Information’ documenton the VLE toanswerthe qu
 |Examinations| 1st August to 5th August|
 | (Re)sit Examinations| 9th December to 15th December.
 5. Which week offers an opportunity to practice prior to your final interviews?
-- Week 10 **Preparing and Practicing Interviews**
+    - Week 10 **Preparing and Practicing Interviews**
 6. What ar the key sources being used on your course? 
     1.  Professional Development 1
     2.  The Career Zone website and other online material 
 7. What are the three main assessment offences? 
+    1. Plagiarism
+    2. Collusion
+    3. Cheating
 8. What should you do if you notice that the record of your attendance in the PD1 class isn’t right?
+    - Contact the Attendance Team via attendance@london.aru.ac.uk 
 9. What is the purpose of the course evaluation?
+    - Obtain views to 
+    - Continueally improve
+    - reponding to issues 
+      
 
 TASK 2:  
 Read the ‘PD1 Week 1 –Module Information’ document again then decide if the statements below are TRUE or FALSE
 1. The course includes some sessions about using PowerPoint, Excel and Word documents.
+    - False   
 2. Weeks 6-8 of the course will focus mainly on CV writing and IT skills.
+    - True
 3. Your final assessment will be graded based on Task Fulfilment, Organisation, Use of Resources, and Professional Conduct.
+    - True
 4. You will need to pay close attention to activities marked by a blue folder during the course.
+    - ???
 5. The final interview is worth 100% of the Professional Development Skills module.
-
+    - ???
+    
 TASK 3: 
 
 Look at the Scheme of Work in the ‘PD1 Week 1 –Module Information’ document. Match the broad focus of each section of the trimester to its corresponding colour in the document:
