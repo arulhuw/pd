@@ -67,69 +67,36 @@ Task 4:
 3. Write the correct number of the station in the box.
 
 
-<div style="   display: flex;
-flex-direction: column;
-  text-align: center;
-  font-weight: bold;">
 
-<span style="background-color: purple;   
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;" >
+
+<span style="background-color: purple;">
+Station Map out specifically what you need to do in order to reach your career goal.
+</span> 
+
+<span style="background-color: green ;">
 Station Map out specifically what you need to do in order to reach your career goal.
 </span>
 
-<span style="background-color: green ; 
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;" >
-Station Map out specifically what you need to do in order to reach your career goal.
-</span>
-
-<span style="background-color: blue ;
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;" >
+<span style="background-color: blue ;" >
 Station Link your abilities and interests to the positions that you have identified to pin point suitable positions.
 </span>
 
-<span style="background-color: orange;
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;" >
+<span style="background-color: orange;" >
 Station Take your first steps to achieve your career goals.
 </span>
 
-<span style="background-color: red;
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;" >
+<span style="background-color: red;" >
  Station Decide what it is that you’re looking for professionally, and what skills and knowledge you can provide to a potential employer.
 </span>
 
-<span style="background-color: purple;
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;">
+<span style="background-color: purple;">
 Station Prepare yourself mentally for the journey ahead.- 
 </span>
 
-<span style="background-color: green;
-height: 100px;
-width: 250px;
-border-radius: 10%;
-display: inline-block;">
+<span style="background-color: green;">
 Station Look for suitable positionsthat match your interests.
 </span>
 
-
-</div>
 
 
 
@@ -159,3 +126,6 @@ Look at the different topics covered each week for the Bronze Passport Scheme, a
 3. What time are the evening sessions?
 4. Which of these sessions would be most useful for you to attend in your
 opinion?
+
+
+
