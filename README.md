@@ -31,6 +31,7 @@ Use the ‘PD1 Week 1 –Module Information’ documenton the VLE to answer the 
     - reponding to issues 
       
 
+---
 TASK 2:  
 Read the ‘PD1 Week 1 –Module Information’ document again then decide if the statements below are TRUE or FALSE
 1. The course includes some sessions about using PowerPoint, Excel and Word documents.
@@ -43,6 +44,7 @@ Read the ‘PD1 Week 1 –Module Information’ document again then decide if th
     - False its red
 5. The final interview is worth 100% of the Professional Development Skills module.
     - True
+---
 
 TASK 3: 
 
@@ -60,55 +62,36 @@ Look at the Scheme of Work in the ‘PD1 Week 1 –Module Information’ documen
 5. Green         
     - Sessions on self-reflection based on the Career’s Express Model, gradually leading to the formulation of a basic career plan
 
+---
 
 Task 4: 
 1. Open the ‘PD1 Week 1 –Graduate Career Guidebook p.22-23’ pdf document on the VLE and read about the Career Express Model which forms the first part of this course.
 2. Hide the document. From memory, can you reorganise the stations below to place them in the order they appear in the model? 
 3. Write the correct number of the station in the box.
 
----
 
-<span style="background-color: purple;">
-Station Map out specifically what you need to do in order to reach your career goal.
-</span>
+```mermaid
+flowchart LR
 
----
-<span style="background-color: green ;">
-Station Map out specifically what you need to do in order to reach your career goal.
-</span>
+classDef blue fill:#2374f7,stroke:#000,stroke-width:2px,color:#fff
+classDef purple fill:#613d7c,stroke:#000,stroke-width:2px,color:#fff
+classDef pink fill:#eb3dd6,stroke:#000,stroke-width:2px,color:#fff
+classDef orange fill:#fc822b,stroke:#000,stroke-width:2px,color:#fff
+classDef red fill:#ed2633,stroke:#000,stroke-width:2px,color:#fff
+classDef green fill:#16b522,stroke:#000,stroke-width:2px,color:#fff
 
----
+PD 
+a[Station... <br/>Map out specifically what you need to do in order <br/>to reach your career goal.]:::purple
+b[station... <br/> Link your abilities and interests to the positions <br/>that you have identified <br/>to pin point suitable positions.]:::green
+C[Station... <br/> Take your first steps to achieve your career goals.]:::blue
+d[Station... <br/>Decide what it is that  you are looking for <br/> professionally, and what skills and knowledge <br/>you can provide to a potential employer.]:::orange
+e([Complete]):::red
 
-<span style="background-color: blue ;" >
-Station Link your abilities and interests to the positions that you have identified to pin point suitable positions.
-</span>
 
----
-<span style="background-color: orange;" >
-Station Take your first steps to achieve your career goals.
-</span>
 
----
+```
 
-<span style="background-color: red;" >
- Station Decide what it is that you’re looking for professionally, and what skills and knowledge you can provide to a potential employer.
-</span>
 
----
-
-<span style="background-color: purple;">
-Station Prepare yourself mentally for the journey ahead.- 
-</span>
-
----
-
-<span style="background-color: green;">
-Station Look for suitable positionsthat match your interests.
-</span>
-
----
-
----
 
 
 
