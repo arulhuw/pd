@@ -1,5 +1,13 @@
+- [PD1 Week1-Worksheet](#pd1-week1-worksheet)
+  - [TASK 1:](#task-1)
+  - [TASK 2:](#task-2)
+  - [TASK 3:](#task-3)
+  - [Task 4:](#task-4)
+  - [TASK 5:](#task-5)
+
+
 ### PD1 Week1-Worksheet 
-TASK 1:  
+#### TASK 1:  
 Use the ‘PD1 Week 1 –Module Information’ documenton the VLE to answer the questionsin groups.
 1. What is the main focus of this course?
     - Potential career paths and development of students' **employability skills**
@@ -32,7 +40,7 @@ Use the ‘PD1 Week 1 –Module Information’ documenton the VLE to answer the 
       
 
 ---
-TASK 2:  
+#### TASK 2:  
 Read the ‘PD1 Week 1 –Module Information’ document again then decide if the statements below are TRUE or FALSE
 1. The course includes some sessions about using PowerPoint, Excel and Word documents.
     - False   
@@ -46,7 +54,7 @@ Read the ‘PD1 Week 1 –Module Information’ document again then decide if th
     - True
 ---
 
-TASK 3: 
+#### TASK 3: 
 
 Look at the Scheme of Work in the ‘PD1 Week 1 –Module Information’ document. Match the broad focus of each section of the trimester to its corresponding colour in the document:
 
@@ -73,7 +81,7 @@ a[1.Red <br/>Sessions designed to prepare for your final interview.]:::red
 
 ---
 
-Task 4: 
+#### Task 4: 
 1. Open the ‘PD1 Week 1 –Graduate Career Guidebook p.22-23’ pdf document on the VLE and read about the Career Express Model which forms the first part of this course.
 2. Hide the document. From memory, can you reorganise the stations below to place them in the order they appear in the model? 
 3. Write the correct number of the station in the box.
@@ -102,7 +110,7 @@ E --> F[Target your first step]
 ```
 ---
 
-TASK 5:
+#### TASK 5:
 - Look at the content of the interview in the ‘PD1 Week 1 –Assignment Brief’and take a note of the words highlighted in orange.
 - Cross checking with the Scheme of Workin the ‘PD1 Week 1 –Module Information’document,
 what week of the trimester do you think you’ll be covering material useful for each topic?
