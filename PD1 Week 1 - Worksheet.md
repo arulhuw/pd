@@ -1,24 +1,24 @@
 ### PD1 Week1-Worksheet 
 TASK 1:  
-Use the ‘PD1 Week 1 –Module Information’ documenton the VLE toanswerthe questionsin groups.
+Use the ‘PD1 Week 1 –Module Information’ documenton the VLE to answer the questionsin groups.
 1. What is the main focus of this course?
-    - Potential career paths and develop students' **employability skills**
+    - Potential career paths and development of students' **employability skills**
 2. Who is the module leader for PD1? How can you contact them?
-    - Mod. Leader Kenneth Cohen kenneth.cohen@london.aru.org 
+    - **Mod. Leader Kenneth Cohen** kenneth.cohen@london.aru.org 
 3. What is the assessment method for this module? 
     - Interview
 4. What are the key dates this term?
 
-|Events | Dates |
+|Key | Dates |
 |----------|---------------------| 
 | Teaching | 9th to May 31 Jully |
 |Examinations| 1st August to 5th August|
 | (Re)sit Examinations| 9th December to 15th December.
 5. Which week offers an opportunity to practice prior to your final interviews?
     - Week 10 **Preparing and Practicing Interviews**
-6. What ar the key sources being used on your course? 
+6. What are the key sources being used on your course? 
     1.  Professional Development 1
-    2.  The Career Zone website and other online material 
+    2.  The Career Zone website and other online materials 
 7. What are the three main assessment offences? 
     1. Plagiarism
     2. Collusion
@@ -66,12 +66,49 @@ Task 4:
 2. Hide the document. From memory, can you reorganise the stations below to place them in the order they appear in the model? 
 3. Write the correct number of the station in the box.
 
-- Station Map out specifically what you need to do in order to reach your career goal.
-- Station Link your abilities and interests to the positions that you have identified to pin point suitable positions.
-- Station Take your first steps to achieve your career goals.
-- Station Decide what it is that you’re looking for professionally, and what skills and knowledge you can provide to a potential employer.
-- Station Prepare yourself mentally for the journey ahead.Station ...:Look for suitable positionsthat match your interests.
 
+<span style="background-color: purple;   
+height: 100px;
+width: 250px;
+border-radius: 10%;
+display: inline-block;" >
+Station Map out specifically what you need to do in order to reach your career goal.
+</span>
+
+<span style="background-color: green ; 
+height: 100px;
+width: 250px;
+border-radius: 10%;
+display: inline-block;" >
+Station Map out specifically what you need to do in order to reach your career goal.
+</span>
+
+<span style="background-color: blue" >
+- Station Link your abilities and interests to the positions that you have identified to pin point suitable positions.
+</span>
+
+<span style="background-color: orange" >
+Station Take your first steps to achieve your career goals.
+</span>
+
+<span style="background-color: red" >
+ Station Decide what it is that you’re looking for professionally, and what skills and knowledge you can provide to a potential employer.
+</span>
+
+<span style="background-color: purple" >
+Station Prepare yourself mentally for the journey ahead.- 
+</span>
+
+<span style="background-color: green" >
+Station Look for suitable positionsthat match your interests.
+</span>
+
+
+
+
+
+
+---
 TASK 5:
 - Look at the content of the interview in the ‘PD1 Week 1 –AssignmentBrief’and take a note of the words highlighted in orange.
 - Cross checking with the Scheme of Workin the ‘PD1 Week 1 –Module Information’document,
