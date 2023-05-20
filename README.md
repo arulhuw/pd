@@ -78,15 +78,15 @@ Task 4:
 2. Hide the document. From memory, can you reorganise the stations below to place them in the order they appear in the model? 
 3. Write the correct number of the station in the box.
 
-    1. Station...
+    1. Station...[5]
         -  Map out specifically what you need to do in order <br/>to reach your career goal.
-    2. Station...
+    2. Station...[4]
         -  Link your abilities and interests to the positions <br/>that you have identified <br/>to pin point suitable positions.
     3. Station...
         -   Take your first steps to achieve your career goals.
-    4. Station...
-        -   Decide what it is that  you are looking for <br/> professionally, and what skills and knowledge <br/>you can provide to a potential employer.
-    5. Station...
+    4. Station...[6]
+        -   Decide what it is that  you are looking for <br/> professionally, and what skills and knowledge <br/>you can provide to a potential employer.[2]
+    5. Station...[1]
         -   Prepare yourself mentally for the journey ahead.
 ---
 
