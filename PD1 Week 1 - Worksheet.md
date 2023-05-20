@@ -40,22 +40,25 @@ Read the ‘PD1 Week 1 –Module Information’ document again then decide if th
 3. Your final assessment will be graded based on Task Fulfilment, Organisation, Use of Resources, and Professional Conduct.
     - True
 4. You will need to pay close attention to activities marked by a blue folder during the course.
-    - ???
+    - False its red
 5. The final interview is worth 100% of the Professional Development Skills module.
-    - ???
-    
+    - True
+
 TASK 3: 
 
 Look at the Scheme of Work in the ‘PD1 Week 1 –Module Information’ document. Match the broad focus of each section of the trimester to its corresponding colour in the document:
-1. Purple      1. Sessions designed to prepare for your final interview.    
-2. Green       2. Sessions focusing on developing skills relating to applying for jobs 
-including IT skills
+1. Red       
+    - Sessions designed to prepare for your final interview.    
+2. Blue        
+    - Sessions focusing on developing skills relating to applying for jobs including IT skills
+3. orange       
+    - Final interview weeks
 
-3. Blue        3. Final interview weeks
+4. Purple       
+    - Introductory session
 
-4. Orange      4. Introductory session
-
-5. Red         5. Sessions on self-reflection based on the Career’s Express Model, graduallyleading to the formulation of a basic career plan
+5. Green         
+    - Sessions on self-reflection based on the Career’s Express Model, gradually leading to the formulation of a basic career plan
 
 
 Task 4: 
