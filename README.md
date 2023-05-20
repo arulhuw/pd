@@ -100,25 +100,23 @@ C --> D[Narrow down one or two fulfilling role/sectors]
 D --> E[Plan your route]
 E --> F[Target your first step]
 ```
-
-
-
-
+---
 
 TASK 5:
-- Look at the content of the interview in the ‘PD1 Week 1 –AssignmentBrief’and take a note of the words highlighted in orange.
+- Look at the content of the interview in the ‘PD1 Week 1 –Assignment Brief’and take a note of the words highlighted in orange.
 - Cross checking with the Scheme of Workin the ‘PD1 Week 1 –Module Information’document,
 what week of the trimester do you think you’ll be covering material useful for each topic?
 
 Eg. One possible career path  >>> Week3
-
-- Values:
-- Current strengths:
-- Current weaknesses:
-- Employment history/educational background:
-- Improvements
-- Opportunities
-- Digital identity and e-hireability
+|Topic|Week|
+|-----|----|
+| Values|
+| Current strengths|Week3|
+| Current weaknesses| Week5 |
+| Employment history/educational background|Week6|
+| Improvements|week4|
+| Opportunities|Week3|
+| Digital identity and e-hireability| Week6
 
 
 TASK 6: 
