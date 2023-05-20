@@ -78,21 +78,27 @@ Task 4:
 2. Hide the document. From memory, can you reorganise the stations below to place them in the order they appear in the model? 
 3. Write the correct number of the station in the box.
 
+    1. Station...
+        -  Map out specifically what you need to do in order <br/>to reach your career goal.
+    2. Station...
+        -  Link your abilities and interests to the positions <br/>that you have identified <br/>to pin point suitable positions.
+    3. Station...
+        -   Take your first steps to achieve your career goals.
+    4. Station...
+        -   Decide what it is that  you are looking for <br/> professionally, and what skills and knowledge <br/>you can provide to a potential employer.
+    5. Station...
+        -   Prepare yourself mentally for the journey ahead.
+---
+
+
 ```mermaid
 flowchart LR
 
-classDef blue fill:#2374f7,stroke:#000,stroke-width:2px,color:#fff
-classDef purple fill:#613d7c,stroke:#000,stroke-width:2px,color:#fff
-classDef pink fill:#eb3dd6,stroke:#000,stroke-width:2px,color:#fff
-classDef orange fill:#fc822b,stroke:#000,stroke-width:2px,color:#fff
-classDef red fill:#ed2633,stroke:#000,stroke-width:2px,color:#fff
-classDef green fill:#16b522,stroke:#000,stroke-width:2px,color:#fff
-
-a[Station... <br/>Map out specifically what you need to do in order <br/>to reach your career goal.]:::purple
-b[station... <br/> Link your abilities and interests to the positions <br/>that you have identified <br/>to pin point suitable positions.]:::green
-C[Station... <br/> Take your first steps to achieve your career goals.]:::blue
-d[Station... <br/>Decide what it is that  you are looking for <br/> professionally, and what skills and knowledge <br/>you can provide to a potential employer.]:::orange
-e[Station... <br/>Prepare yourself mentally for the journey ahead.]:::red
+A[The starting point] --> B[Assess your self]
+B --> C[Identify your option ]
+C --> D[Narrow down one or two fulfilling role/sectors]
+D --> E[Plan your route]
+E --> F[Target your first step]
 ```
 
 
