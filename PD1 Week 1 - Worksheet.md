@@ -66,39 +66,49 @@ Task 4:
 2. Hide the document. From memory, can you reorganise the stations below to place them in the order they appear in the model? 
 3. Write the correct number of the station in the box.
 
-
-
+---
 
 <span style="background-color: purple;">
 Station Map out specifically what you need to do in order to reach your career goal.
-</span> 
+</span>
 
+---
 <span style="background-color: green ;">
 Station Map out specifically what you need to do in order to reach your career goal.
 </span>
+
+---
 
 <span style="background-color: blue ;" >
 Station Link your abilities and interests to the positions that you have identified to pin point suitable positions.
 </span>
 
+---
 <span style="background-color: orange;" >
 Station Take your first steps to achieve your career goals.
 </span>
+
+---
 
 <span style="background-color: red;" >
  Station Decide what it is that you’re looking for professionally, and what skills and knowledge you can provide to a potential employer.
 </span>
 
+---
+
 <span style="background-color: purple;">
 Station Prepare yourself mentally for the journey ahead.- 
 </span>
+
+---
 
 <span style="background-color: green;">
 Station Look for suitable positionsthat match your interests.
 </span>
 
+---
 
-
+---
 
 
 
