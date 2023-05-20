@@ -67,6 +67,11 @@ Task 4:
 3. Write the correct number of the station in the box.
 
 
+<div style="   display: flex;
+flex-direction: column;
+  text-align: center;
+  font-weight: bold;">
+
 <span style="background-color: purple;   
 height: 100px;
 width: 250px;
@@ -124,11 +129,12 @@ Station Look for suitable positionsthat match your interests.
 </span>
 
 
+</div>
 
 
 
 
----
+
 TASK 5:
 - Look at the content of the interview in the ‘PD1 Week 1 –AssignmentBrief’and take a note of the words highlighted in orange.
 - Cross checking with the Scheme of Workin the ‘PD1 Week 1 –Module Information’document,
