@@ -123,12 +123,19 @@ a[1.Station <br/> Prepare yourself mentally for the journey ahead.]:::red
 
 ```mermaid
 flowchart 
+classDef blue fill:#2374f7,stroke:#000,stroke-width:2px,color:#fff
+classDef purple fill:#613d7c,stroke:#000,stroke-width:2px,color:#fff
+classDef pink fill:#eb3dd6,stroke:#000,stroke-width:2px,color:#fff
+classDef orange fill:#fc822b,stroke:#000,stroke-width:2px,color:#fff
+classDef red fill:#ed2633,stroke:#000,stroke-width:2px,color:#fff
+classDef green fill:#16b522,stroke:#000,stroke-width:2px,color:#fff
 
-A[The starting point] --> B[Assess your self]
-B --> C[Identify your option ]
-C --> D[Narrow down one or two fulfilling role/sectors]
+
+A[The starting point]:::purple --> B[Assess your self]:::green
+B --> C[Identify your option ]:::blue
+C --> D[Narrow down one or two fulfilling role/sectors]:::orange
 D --> E[Plan your route]
-E --> F[Target your first step]
+E --> F[Target your first step]:::red
 ```
 ---
 
