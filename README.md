@@ -96,11 +96,33 @@ a[1.Red <br/>Sessions designed to prepare for your final interview.]:::red
         -   Decide what it is that  you are looking for <br/> professionally, and what skills and knowledge <br/>you can provide to a potential employer.[2]
     5. Station...[1]
         -   Prepare yourself mentally for the journey ahead.
----
 
 
 ```mermaid
 flowchart LR
+
+classDef blue fill:#2374f7,stroke:#000,stroke-width:2px,color:#fff
+classDef purple fill:#613d7c,stroke:#000,stroke-width:2px,color:#fff
+classDef pink fill:#eb3dd6,stroke:#000,stroke-width:2px,color:#fff
+classDef orange fill:#fc822b,stroke:#000,stroke-width:2px,color:#fff
+classDef red fill:#ed2633,stroke:#000,stroke-width:2px,color:#fff
+classDef green fill:#16b522,stroke:#000,stroke-width:2px,color:#fff
+
+d[1. Station  <br/> Map out specifically <br/>what you need to do in<br/> order to reach your <br/>career goal.]:::purple
+
+e[2. Station   <br/>Link your abilities and interests<br/> to the positions that you have<br/> identified to pin point suitable positions.]:::green
+
+b[3. Station <br/> Take your first steps <br/   >to achieve your career goals.]:::blue
+C[3. station <br/>  Look for suitable positions that match your interests.]:::orange
+a[1.Station <br/> Prepare yourself mentally for the journey ahead.]:::red
+
+```
+
+
+
+
+```mermaid
+flowchart 
 
 A[The starting point] --> B[Assess your self]
 B --> C[Identify your option ]
