@@ -43,7 +43,7 @@ Use the ‘PD1 Week 1 –Module Information’ documenton the VLE to answer the 
 #### TASK 2:  
 Read the ‘PD1 Week 1 –Module Information’ document again then decide if the statements below are TRUE or FALSE
 1. The course includes some sessions about using PowerPoint, Excel and Word documents.
-    - False   
+    - False   README copy
 2. Weeks 6-8 of the course will focus mainly on CV writing and IT skills.
     - True
 3. Your final assessment will be graded based on Task Fulfilment, Organisation, Use of Resources, and Professional Conduct.
@@ -160,10 +160,13 @@ TASK 6:
 Look at the different topics covered each week for the Bronze Passport Scheme, and answer the questions below. 
 
 1. When are the sessions run?
+   - On the 24rd, 24th, and 25th.
 2. How long are the sessions?
+   - For 30 minutes.
 3. What time are the evening sessions?
-4. Which of these sessions would be most useful for you to attend in your
-opinion?
+   - From 17-15 to 17-45
+4. Which of these sessions would be most useful for you to attend in your opinion?
+   - An evening sessions .
 
 
 
