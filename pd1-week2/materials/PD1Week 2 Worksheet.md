@@ -148,7 +148,6 @@ j. I failed the first time, but now I know why so I can fix it. <br>
 ## TASK 7	
 >## Match the strategies below to the relevant conceptual method. Then discuss the questions below:
 
-```
 1. Improve your skills in areas like goal setting, time management and conflict management
 2. Implement a fitness program
 3. Change job/vocation/location
@@ -165,7 +164,9 @@ j. I failed the first time, but now I know why so I can fix it. <br>
 14. Develop a sense of humour about your situation 
 15. Structure time off from work
 16. Get adequate and appropriate nutrition
-```
+
+---  
+
 |Change your internal attitudes/perceptions | Change your interaction with the environment|
 |-------------------------------------------|---------------------------------------------|
 |||
