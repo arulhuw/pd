@@ -89,6 +89,10 @@ j. I failed the first time, but now I know why so I can fix it. <br>
 4. Once you’re on the website, look on the drop-down menu entitled ‘Step 1: Explore & Decide’, then select Career Assessment
 5. Scroll down and select the ‘Stress Management’ quiz
 
+- >## What was your final score?
+
+- > ## Do you think this reflects your ability to handle stress? Why/not?
+
 
 ## TASK 6	
 >## [Watch the video “How to make stress your friend”](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend) up to 7.21 then decide which of the statements below is TRUE or FALSE:
@@ -106,6 +110,28 @@ j. I failed the first time, but now I know why so I can fix it. <br>
 - In the Harvard university study, the cardiovascular system of participants was not adversely impacted by stress-inducing situations because they had been trained to respond more positively to stress.
 
 - McGonigal’s ultimate goals is to get the audience to reconsider how they respond to stress.
+
+
+## Rethinking stress 1
+1. Look at the page for Kelly McGonigal’s TED talk then answer the questions below: 
+
+2. What is the name of the video? 
+
+3. What website hosts the video?
+
+4. Who is the speaker in the video?
+
+5. In which year was the video published?
+
+6. Why might it be useful to identify this information when you look at a source?
+
+## Rethinking stress 2
+
+- What did you learn from the video?
+- Do you agree with Kelly McGonigal’s conclusions? Why/not?
+- Do you think you will change your way of thinking about stress in the future? In what situations might this be useful?
+
+
 
 ## TASK 7	
 >## Match the strategies below to the relevant conceptual method. Then discuss the questions below:
