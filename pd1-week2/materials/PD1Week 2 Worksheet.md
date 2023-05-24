@@ -1,4 +1,16 @@
 # PD1 Week 2 - Worksheet
+- [PD1 Week 2 - Worksheet](#pd1-week-2---worksheet)
+  - [TASK 1](#task-1)
+  - [TASK 2](#task-2)
+  - [TASK 3](#task-3)
+  - [In class](#in-class)
+  - [Homework](#homework)
+  - [TASK4](#task4)
+  - [TASK 5](#task-5)
+  - [TASK 6](#task-6)
+  - [Rethinking stress 1](#rethinking-stress-1)
+  - [Rethinking stress 2](#rethinking-stress-2)
+  - [TASK 7](#task-7)
  ## TASK 1	
 >## Consider how you could divide the sentences below into two distinct groups. Once they are divided into two groups, give each group a title that would best represent the sentences within.
 
