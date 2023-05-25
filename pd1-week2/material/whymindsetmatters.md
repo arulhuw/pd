@@ -1,3 +1,5 @@
+
+
 Our mindset is a combination of the beliefs and feelings that determine our view or attitude to life.
 Our general wellbeing is heavily influenced by the choices we make,
 especially those we make relating to our attitude. 
