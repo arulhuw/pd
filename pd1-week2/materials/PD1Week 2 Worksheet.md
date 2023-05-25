@@ -102,8 +102,9 @@ j. I failed the first time, but now I know why so I can fix it. <br>
 5. Scroll down and select the ‘Stress Management’ quiz
 
 - >## What was your final score?
-
+  - 107
 - > ## Do you think this reflects your ability to handle stress? Why/not?
+  -  Not sure
 
 
 ## TASK 6	
