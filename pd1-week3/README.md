@@ -5,3 +5,9 @@
 - PD1 Week 3 - Worksheet PD1 Week 3 - [Worksheet](/pd1-week3/materials/PD1Week3-Worksheet.docx)
 - PD1 Week 3 - Worksheet Solutions PD1 Week 3 - [Worksheet Solutions](/pd1-week3/materials/PD1Week3-WorksheetSolutions.docx)
 - PD1 Week 3 - Skills for Success p.254-255 PD1 Week 3 - [Skills for Success p.254-255](/pd1-week3/materials/PD1Week3SkillsforSuccessp.254-255.pdf)
+
+
+
+## Homework
+
+Complete TASK 4 of the PD1 Week 3 – [Worksheet](/pd1-week3/materials/PD1Week3-Worksheet.docx)
